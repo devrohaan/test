@@ -18,8 +18,6 @@ System.out.println(s3);
 public void static main(args [])
 {
 double e;
-//initializing an integer
-int a;
 public class StringExample{  
 public static void main(String args[]){  
 String s1="java";//creating string by java string literal  
