@@ -16,6 +16,9 @@ public class Calculator {
             case '+':
                 System.out.println("Result: " + (first + second));
                 break;
+            case '/':
+                System.out.println("Result: " + (first / second));
+                break;
             case '-':
                 System.out.println("Result: " + (first - second));
                 break;
