@@ -19,7 +19,10 @@ public class Calculator {
             case '/':
                 System.out.println("Result: " + (first / second));
                 break;
-            case '-':
+            case '%':
+		System.out.println("Result:"+ per);
+		break;
+	    case '-':
                 System.out.println("Result: " + (first - second));
                 break;
             case '*':
