@@ -3,6 +3,9 @@ import java.util.Scanner;
 
 public class Calculator {
 
+
+//somebody made changes in the master branch to raise conflicts
+
     public static void main(String[] args) {
         
         Scanner reader = new Scanner(System.in);
